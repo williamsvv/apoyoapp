@@ -1,0 +1,40 @@
+{
+  "professionals": [
+    {
+      "id": "demo-professional-1",
+      "name": "Dra. Laura Medina",
+      "email": "laura@apoyoapp.demo",
+      "role": "Psicologo",
+      "specialty": "Ansiedad, crisis y primeros auxilios psicologicos",
+      "license": "FPV-1024",
+      "availability": "En guardia",
+      "whatsapp": "584120000000"
+    },
+    {
+      "id": "demo-professional-2",
+      "name": "Dr. Andres Rivas",
+      "email": "andres@apoyoapp.demo",
+      "role": "Psiquiatra",
+      "specialty": "Evaluacion psiquiatrica y seguimiento farmacologico",
+      "license": "MPPS-8821",
+      "availability": "Disponible hoy",
+      "whatsapp": "584140000000"
+    }
+  ],
+  "requests": [
+    {
+      "id": "demo-request-1",
+      "name": "Paciente Demo",
+      "age": "32",
+      "contactMethod": "whatsapp",
+      "phone": "+584121112233",
+      "symptoms": "Ansiedad intensa, insomnio y sensacion de panico. Solicita contacto rapido.",
+      "duration": "Desde hace tres dias, empeoro hoy",
+      "urgency": "medium",
+      "safetyRisk": false,
+      "preferredSupport": "either",
+      "status": "pending",
+      "createdAt": "2026-06-28T00:00:00.000Z"
+    }
+  ]
+}
