@@ -1,0 +1,223 @@
+{
+  "general": {
+    "title": "PsicoAyudaVenezuela",
+    "slogan": "Soporte psicológico gratuito, confidencial y profesional para todos los venezolanos.",
+    "emergencyBanner": {
+      "text": "ATENCIÓN: Si te encuentras en una situación de crisis extrema, pensamientos de hacerte daño o una emergencia psiquiátrica inminente, por favor ponte en contacto inmediato con nuestros profesionales de guardia.",
+      "action": "Ver Guardia Activa"
+    },
+    "volunteerButton": {
+      "register": "Registrarse como Voluntario",
+      "login": "Iniciar Sesión",
+      "dashboard": "Panel de Voluntario",
+      "logout": "Cerrar Sesión"
+    },
+    "footer": {
+      "disclaimer": "Aviso Médico Legal: La información y la orientación brindadas en esta plataforma tienen fines educativos y de soporte primario. No reemplazan una terapia psicológica formal ni un tratamiento médico o psiquiátrico de urgencia. Si tu vida corre peligro, acude al centro de salud más cercano o llama a los servicios de emergencia de tu localidad.",
+      "credits": "© 2026 PsicoAyudaVenezuela. Desarrollado con vocación de servicio público y apoyo mutuo."
+    }
+  },
+  "diagnosticoRapido": {
+    "title": "Guía de Diagnóstico Rápido",
+    "subtitle": "Aprende a reconocer condiciones comunes y aplica técnicas de autorregulación en momentos de crisis.",
+    "items": [
+      {
+        "id": "ansiedad",
+        "title": "Ansiedad Generalizada",
+        "desc": "Estado de preocupación constante, tensión muscular, inquietud y anticipación catastrófica de eventos cotidianos.",
+        "icon": "Activity",
+        "tecnicaTitle": "Técnica de Conexión a Tierra (5-4-3-2-1)",
+        "tecnicaSteps": [
+          "Nombra 5 cosas que puedas ver a tu alrededor.",
+          "Nombra 4 cosas que puedas tocar (el suelo, tu ropa, una mesa).",
+          "Nombra 3 cosas que puedas escuchar (el viento, tráfico, un zumbido).",
+          "Nombra 2 cosas que puedas oler (café, perfume, jabón).",
+          "Nombra 1 cosa que puedas probar o saborear."
+        ]
+      },
+      {
+        "id": "panico",
+        "title": "Ataque de Pánico",
+        "desc": "Aparición repentina de miedo intenso, taquicardia, dificultad para respirar, sudoración y sensación de perder el control o morir.",
+        "icon": "AlertOctagon",
+        "tecnicaTitle": "Respiración Diafragmática (Caja 4-4-4)",
+        "tecnicaSteps": [
+          "Inhala aire por la nariz lenta y profundamente contando hasta 4 segundos.",
+          "Retén el aire en tus pulmones durante 4 segundos.",
+          "Exhala el aire por la boca de manera suave durante 4 segundos.",
+          "Espera 4 segundos antes de volver a inhalar. Repite este ciclo por 5 minutos."
+        ]
+      },
+      {
+        "id": "duelo",
+        "title": "Proceso de Duelo",
+        "desc": "Respuesta emocional natural ante la pérdida significativa de un ser querido, un empleo, una relación o el país de origen.",
+        "icon": "Heart",
+        "tecnicaTitle": "Práctica de Validación Emocional",
+        "tecnicaSteps": [
+          "Permítete sentir la tristeza o rabia sin juzgarte.",
+          "Escribe libremente en un papel lo que sientes y luego léelo en voz alta.",
+          "Establece pequeñas rutinas que no te exijan alta energía.",
+          "Habla con alguien de confianza sobre lo que has perdido."
+        ]
+      },
+      {
+        "id": "insomnio",
+        "title": "Insomnio e Inquietud",
+        "desc": "Dificultad para conciliar el sueño, despertarse continuamente o tener un sueño no reparador debido a la hiperactividad mental.",
+        "icon": "Moon",
+        "tecnicaTitle": "Higiene del Sueño y Relajación",
+        "tecnicaSteps": [
+          "Evita mirar pantallas (móvil, TV) al menos 45 minutos antes de dormir.",
+          "Si no logras dormir tras 20 minutos en cama, levántate y haz una actividad tranquila con luz tenue.",
+          "Realiza un escaneo corporal: concéntrate en relajar cada grupo muscular desde los pies hasta la cabeza.",
+          "Mantén el dormitorio fresco y libre de ruidos en la medida de lo posible."
+        ]
+      }
+    ]
+  },
+  "reaccionesSismo": {
+    "title": "Reacciones Psicológicas Normales Post-Sismo",
+    "subtitle": "Ante un evento adverso de gran magnitud, el cuerpo y la mente reaccionan de formas inusuales que son completamente adaptativas y esperadas.",
+    "quadrants": [
+      {
+        "area": "Fisiológica (Tu Cuerpo)",
+        "icon": "Activity",
+        "items": [
+          "Taquicardia, palpitaciones y opresión en el pecho.",
+          "Temblores, escalofríos o sudoración fría.",
+          "Dificultades respiratorias o sensación de ahogo.",
+          "Fatiga extrema o exceso de energía nerviosa."
+        ]
+      },
+      {
+        "area": "Emocional (Tus Sentimientos)",
+        "icon": "HeartHandshake",
+        "items": [
+          "Miedo persistente a que el evento se repita (réplicas).",
+          "Irritabilidad, enojo o cambios drásticos de humor.",
+          "Tristeza profunda, llanto frecuente o apatía.",
+          "Sentimiento de culpa por estar a salvo o no haber hecho más."
+        ]
+      },
+      {
+        "area": "Cognitiva (Tus Pensamientos)",
+        "icon": "Brain",
+        "items": [
+          "Dificultad para concentrarse o tomar decisiones sencillas.",
+          "Pesadillas, pensamientos intrusivos o recuerdos del evento.",
+          "Desorientación temporal o espacial transitoria.",
+          "Hipervigilancia (estar alerta a cualquier ruido o vibración)."
+        ]
+      },
+      {
+        "area": "Conductual (Tus Acciones)",
+        "icon": "Users",
+        "items": [
+          "Aislamiento social o deseo constante de no quedarse solo.",
+          "Alteraciones significativas del apetito (comer de más o no comer).",
+          "Dificultad para conciliar el sueño o insomnio recurrente.",
+          "Llanto inconsolable o reacciones desproporcionadas ante ruidos cotidianos."
+        ]
+      }
+    ]
+  },
+  "alertasCriticas": {
+    "title": "Señales de Alerta Crítica",
+    "subtitle": "Identifica cuándo los síntomas superan los mecanismos de adaptación individuales y se requiere intervención inmediata.",
+    "levels": [
+      {
+        "status": "Urgencia Mayor",
+        "color": "red",
+        "signs": [
+          "Ideas, planes o intentos activos de autolesión o suicidio.",
+          "Agresividad severa, descontrol de impulsos o violencia hacia terceros.",
+          "Alucinaciones (escuchar o ver cosas que otros no perciben).",
+          "Desconexión total de la realidad o mutismo selectivo prolongado."
+        ]
+      },
+      {
+        "status": "Monitoreo Estricto",
+        "color": "orange",
+        "signs": [
+          "Ataques de pánico diarios que impiden realizar tareas básicas.",
+          "Abuso marcado de alcohol, medicamentos o sustancias para calmar la angustia.",
+          "Negativa persistente a comer, beber agua o asearse.",
+          "Llanto constante e incapacidad total de salir de la cama por más de 3 días."
+        ]
+      }
+    ],
+    "protocol": {
+      "title": "Protocolo de Acción Urgente",
+      "steps": [
+        "**Mantén la calma y acompaña:** No dejes sola a la persona que atraviesa la crisis.",
+        "**Escucha activa sin juzgar:** Evita dar sermones, minimizar su dolor o desafiar sus ideas.",
+        "**Busca a nuestros Profesionales de Guardia:** Ve a la pestaña 'Guardias Activas' y contacta a un psicólogo disponible inmediatamente por llamada o WhatsApp.",
+        "**Retira objetos de peligro:** Asegura el entorno retirando medicamentos, armas, cuerdas u objetos cortantes.",
+        "**Acude a un centro asistencial:** Si la persona está fuera de control o se ha autolesionado, trasládala de inmediato al área de emergencias del hospital más cercano."
+      ]
+    }
+  },
+  "manifestacionesDuelo": {
+    "title": "Manifestaciones del Duelo",
+    "subtitle": "El duelo no es una enfermedad, es un proceso de adaptación. Conoce sus diferentes dimensiones para validar tu proceso.",
+    "cards": [
+      {
+        "dimension": "Dimensión Física",
+        "icon": "ShieldAlert",
+        "desc": "Es habitual sentir vacío en el estómago, opresión en el pecho o garganta, hipersensibilidad al ruido, falta de aire, debilidad muscular y sequedad de boca."
+      },
+      {
+        "dimension": "Dimensión Cognitiva",
+        "icon": "HelpCircle",
+        "desc": "Suelen aparecer pensamientos de incredulidad ('esto no puede ser real'), confusión, dificultades de memoria, alucinaciones breves (creer ver u oír al fallecido) y rumiación mental."
+      },
+      {
+        "dimension": "Dimensión Emocional",
+        "icon": "Smile",
+        "desc": "Se experimenta tristeza, ira contra las circunstancias o la persona ausente, culpa, soledad, fatiga existencial, impotencia y en ocasiones alivio."
+      },
+      {
+        "dimension": "Dimensión Social / Conductual",
+        "icon": "MessageSquare",
+        "desc": "Es común soñar con el ser querido, evitar recordatorios de la pérdida, suspirar continuamente, aislarse socialmente o, por el contrario, hiperactivarse para no pensar."
+      }
+    ]
+  },
+  "habitosSaludables": {
+    "title": "Hábitos Saludables y Autocuidado",
+    "subtitle": "Pequeñas acciones diarias que fortalecen tu salud mental de forma autónoma y previenen el colapso emocional.",
+    "items": [
+      {
+        "category": "Rutinas y Descanso",
+        "title": "Horarios Estables de Sueño",
+        "desc": "Intenta dormir y despertarte a la misma hora todos los días. El sueño regula los niveles de cortisol, la hormona del estrés."
+      },
+      {
+        "category": "Alimentación",
+        "title": "Alimentación Consciente y Regulación de Café/Azúcar",
+        "desc": "Reduce estimulantes en situaciones de alta tensión. El café y el azúcar pueden disparar los síntomas fisiológicos del pánico."
+      },
+      {
+        "category": "Cuerpo",
+        "title": "Movimiento Físico Diario",
+        "desc": "Caminar 20-30 minutos al aire libre ayuda a liberar endorfinas y descargar el exceso de adrenalina acumulado por la ansiedad."
+      },
+      {
+        "category": "Límites",
+        "title": "Dieta de Información (Detox Digital)",
+        "desc": "Evita consumir noticias catastróficas o videos impactantes de forma compulsiva en redes sociales. Elige 1 o 2 momentos al día para informarte por fuentes fiables."
+      },
+      {
+        "category": "Conexión",
+        "title": "Mantenimiento de Lazos Afectivos",
+        "desc": "Comparte tiempo con seres queridos. Conversar sobre temas no relacionados con la crisis ayuda a la mente a reenfocarse y sentirse segura."
+      },
+      {
+        "category": "Mente",
+        "title": "Pausas de Atención Plena",
+        "desc": "Dedica 5 minutos al día a cerrar los ojos, concentrarte solo en tu respiración y permitir que tus pensamientos pasen como nubes sin detenerte en ellos."
+      }
+    ]
+  }
+}
